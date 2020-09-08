@@ -6,7 +6,7 @@
  - i'm student of high school!
  - i code with C/C++,java,python!!!!
 
-- 🌱 I’m currently learning about Javascript, React
+- 🌱 I’m currently learning about Javascript, React, Assembly
 - 📫 How to reach me: Call discord DM 'RT KiRIst#0763'
 
 ![KiRist's github stats](https://github-readme-stats.vercel.app/api?username=KiRist-code&show_icons=true)
