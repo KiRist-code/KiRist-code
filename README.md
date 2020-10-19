@@ -9,4 +9,6 @@
 - 🌱 I’m currently learning about Javascript, React, Assembly
 - 📫 How to reach me: Call discord DM 'KiRist#0763'
 
+- My Notion: https://www.notion.so/kiristhome/KiRist-s-Home-d8afdcc42ca84f5dbbc5a810cd59b074
+
 ![KiRist's github stats](https://github-readme-stats.vercel.app/api?username=KiRist-code&show_icons=true)
