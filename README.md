@@ -19,10 +19,20 @@
     </a>
 </div>
 
-# who am i?
- - i'm student of high school!
- - 📫 How to reach me: Call discord DM KilrBst KiRist#8098
+ 
+# Language
+![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-0696D7?style=plastic&logo=C&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-d13846?style=plastic&logo=Java&logoColor=white)
+
+# Contact
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmj57667@gmail.com)](mailto:kmj57667@gmail.com)
  
 
- 
+
 ![KiRist's github stats](https://github-readme-stats.vercel.app/api?username=KiRist-code&show_icons=true)
+<a href="https://discord.com/">
+    <img 
+        src="http://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&link=https://discord.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
