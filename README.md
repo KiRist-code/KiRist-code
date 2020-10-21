@@ -29,7 +29,7 @@
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmj57667@gmail.com)](mailto:kmj57667@gmail.com)
  <a href="https://discord.com/">
     <img 
-        src="http://img.shields.io/badge/-KilrBst%20KiRist#8098-blue?style=flat&logo=Discord&link=https://discord.com/"
+        src="http://img.shields.io/badge/-KilrBst%20KiRist&#35;8098-blue?style=flat&logo=Discord&link=https://discord.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
  </a>
 
