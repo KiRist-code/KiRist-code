@@ -6,13 +6,11 @@
 
 # who am i?
  - i'm student of high school!
- Property                 | Data  
--------------------------|------
-Language / IDE           | [![Python Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user:KiRist-code&type=Repositories) [![C Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-A8B9CC?style=flat&logo=C&logoColor=white)](https://github.com/search?q=user%3AKiRist-code&type=Repositories) 
+
  
  
  
-- 📫 How to reach me: Call discord DM [![Discord Badge](https://img.shields.io/badge/-KilrBst KiRist%235486-8080ff?style=flat&logo=discord&logoColor=white)](https://discord.com/)
+- 📫 How to reach me: Call discord DM KilrBst KiRist#8098
 
 - My Notion: https://www.notion.so/kiristhome/KiRist-s-Home-d8afdcc42ca84f5dbbc5a810cd59b074
 
