@@ -27,12 +27,11 @@
 
 # Contact
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmj57667@gmail.com)](mailto:kmj57667@gmail.com)
- 
-
-
-![KiRist's github stats](https://github-readme-stats.vercel.app/api?username=KiRist-code&show_icons=true)
-<a href="https://discord.com/">
+ <a href="https://discord.com/">
     <img 
         src="http://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&link=https://discord.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+ </a>
+
+
+![KiRist's github stats](https://github-readme-stats.vercel.app/api?username=KiRist-code&show_icons=true)
