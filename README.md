@@ -7,11 +7,6 @@
     <img 
         src="https://img.shields.io/github/followers/KiRist-code?label=KiRist%20Followers&style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    <a href="https://discord.com/">
-    <img 
-        src="http://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&link=https://discord.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>
     <a href="https://www.notion.so/kiristhome/KiRist-s-Home-d8afdcc42ca84f5dbbc5a810cd59b074">
         <img 
             src="http://img.shields.io/badge/-KiRist%20Notion-655ced?style=flat&logo=Notion&link=https://www.notion.so/kiristhome/KiRist-s-Home-d8afdcc42ca84f5dbbc5a810cd59b074"
