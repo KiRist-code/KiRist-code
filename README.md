@@ -27,6 +27,8 @@
         src="http://img.shields.io/badge/-KiRist-blue?style=flat&logo=Discord&link=https://discord.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
  </a>
+# my Team
+ - Team KoDiNa
 
 
 ![KiRist's github stats](https://github-readme-stats.vercel.app/api?username=KiRist-code&show_icons=true)
