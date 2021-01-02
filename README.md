@@ -12,8 +12,6 @@ Skills: C/Cpp, Python, Java, SQL,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiRist-code)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KiRist-code)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KiRist-code&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KiRist-code)  
