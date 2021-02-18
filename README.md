@@ -5,7 +5,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: C/Cpp, Python, Java, SQL, 
 
 - 🌱 I’m currently learning Node.js, React, Assembly 
-- 📫 How to reach me: discord DM me KiRist#6412 
+- 📫 How to reach me: discord DM me KiRist#6412 \
+- Blog : https://kirist2357.tistory.com/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiRist-code)](https://github.com/anuraghazra/github-readme-stats)
 
