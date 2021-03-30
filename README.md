@@ -1,4 +1,4 @@
-### It's me KiRist ![Profile views](https://gpvc.arturio.dev/KiRist-code)  
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KiRist&fontSize=70&animation=twinkling)
 Spagetti code maker
 
 ## Contact
