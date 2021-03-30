@@ -3,6 +3,7 @@ Spagetti code maker
 
 ## Contact
 [![Discord](https://discord.c99.nl/widget/theme-3/712196368630022195.png)](http://discord.com/users/712196368630022195)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmj57667@gmail.com)](mailto:kmj57667@gmail.com)
  
 
