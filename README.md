@@ -1,13 +1,18 @@
-### Hi there 👋, my name is KiRist
-![Profile views](https://gpvc.arturio.dev/KiRist-code)  
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### It's me KiRist ![Profile views](https://gpvc.arturio.dev/KiRist-code)  
+Spagetti code maker
 
-Skills: C/Cpp, Python, Java, SQL, 
+## Contact
+[![Discord](https://discord.c99.nl/widget/theme-3/712196368630022195.png)](http://discord.com/users/712196368630022195)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmj57667@gmail.com)](mailto:kmj57667@gmail.com)
+ 
 
-- 🌱 I’m currently learning Node.js, React, Assembly 
-- 📫 How to reach me: discord DM me KiRist#6412 \
-- Blog : https://kirist2357.tistory.com/
+## What I use...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiRist-code)](https://github.com/anuraghazra/github-readme-stats)
+### Languages
+[![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)](https://www.javascript.com)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)](https://git-scm.com)
+[![C](https://img.shields.io/badge/C-F05032?style=for-the-badge&logo=C&logoColor=blue)]
+[![Python](https://img.shields.io/badge/Pythob-F05032?style=for-the-badge&logo=Python&logoColor=blue)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-F05032?style=for-the-badge&logo=SQL&logoColor=red)]
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KiRist-code&show_icons=true)  
