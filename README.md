@@ -3,8 +3,6 @@
 
 <h3 align="center">Spagetti Code Maker</h3>
 
-[![Github Followers](https://img.shields.io/github/followers/KiRist-code?style=for-the-badge)]()
-
 ## Contact
 [![Discord](https://discord.c99.nl/widget/theme-3/712196368630022195.png)](http://discord.com/users/712196368630022195)
 
