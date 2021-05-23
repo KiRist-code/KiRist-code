@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KiRist&fontSize=70&animation=twinkling)
 
 
-<h3 align="center">Spagetti Code Maker</h3>
+<h3 align="center">Spagetti Code Maker & Noob Hacker</h3>
 
 ## Contact
 [![Discord](https://discord.c99.nl/widget/theme-3/712196368630022195.png)](http://discord.com/users/712196368630022195)
