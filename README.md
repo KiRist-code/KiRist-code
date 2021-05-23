@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KiRist&fontSize=70&animation=twinkling)
+[![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KiRist&fontSize=70&animation=twinkling)](https://www.github.com/KiRist-code)
 
 
 <h3 align="center">Spagetti Code Maker & Noob Hacker</h3>
