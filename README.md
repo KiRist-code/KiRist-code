@@ -9,6 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmj57667@gmail.com)](mailto:kmj57667@gmail.com)
 
 [Tistory Blog](https://kirist2357.tistory.com/)
+[Notion (for ENG users)](https://www.notion.so/kiristhome/KiRist-s-Home-d8afdcc42ca84f5dbbc5a810cd59b074)
  
 
 ## What I use...
