@@ -8,6 +8,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmj57667@gmail.com)](mailto:kmj57667@gmail.com)
 
+## MY BLOG
+
 [Tistory Blog](https://kirist2357.tistory.com/)
 
 [Notion](https://www.notion.so/KiRist-s-Home-662704f4764c48179ce59d22f5b85abd)
