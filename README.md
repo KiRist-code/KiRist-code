@@ -10,7 +10,7 @@
 
 [Tistory Blog](https://kirist2357.tistory.com/)
 
-[Notion (for ENG users)](https://www.notion.so/KiRist-s-Home-662704f4764c48179ce59d22f5b85abd)
+[Notion](https://www.notion.so/KiRist-s-Home-662704f4764c48179ce59d22f5b85abd)
  
 
 ## What I use...
