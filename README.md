@@ -17,7 +17,7 @@
 
 ## What I use...
 
-### Languages
+### Languages & Tools
 [![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=fff)]()
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)](https://git-scm.com)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)]()
