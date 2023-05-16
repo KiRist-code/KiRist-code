@@ -12,7 +12,7 @@
 
 [Tistory Blog](https://kirist2357.tistory.com/)
 
-[Notion](https://kiristhome.notion.site/KiRist-s-Home-53acf8998c154c059919873a90f8d5e1)
+[Notion](https://kiristhome.notion.site/KiRist-s-Home-53acf8998c154c059919873a90f8d5e1) (this is the main page)
  
 
 ## What I use...
