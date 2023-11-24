@@ -1,4 +1,6 @@
-[![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KiRist&fontSize=70&animation=twinkling)](https://www.github.com/KiRist-code)
+<div id="header" align="center">
+  <img src="content/github_banner.pnb"/>
+</div>
 
 
 <h3 align="center">Spagetti Code Maker & Music Composer</h3>
