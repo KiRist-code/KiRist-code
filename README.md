@@ -6,6 +6,7 @@
 <div align="center">
  
  [![Soundcloud](/content/SoundCloud.svg)](){: width="100" height="100"}
+ 
  [![Spotify](/content/Spotify logo.svg)](){: width="100" height="100"}
  
 </div>
