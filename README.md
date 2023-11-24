@@ -4,7 +4,8 @@
 <h3 align="center">Spagetti Code Maker & Music Composer</h3>
 
 <div align="center">
-
+ <a href="https://soundcloud.com/kirist2357"><img src="content/SoundCloud.svg" alt="soundcloud"/></a>
+ <a href="https://open.spotify.com/artist/6jwm7Ossu6HYJSNAkMhts2?si=o0czMiqyRsChUantuZ1Z2g"><img src="content/Spotify logo.svg" alt="spotify"/></a>
 </div>
 
 ## Contact
