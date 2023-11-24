@@ -3,7 +3,7 @@
 
 <h3 align="center">Spagetti Code Maker & Music Composer</h3>
 
-<div style="display: block; margin: auto;">
+<div align="center" style="display: flex; flex-direction: row;">
 
  <a href="https://soundcloud.com/kirist2357"><img src="content/SoundCloud.svg" width="100" height="100" /></a>
  
