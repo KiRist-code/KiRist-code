@@ -2,14 +2,18 @@
 
 
 <h3 align="center">Spagetti Code Maker & Music Composer</h3>
+<div align="center">
 
-<div style="display: flex; flex-direction: row; justify-content: center;">
+ <div style="display: flex; flex-direction: row;">
 
- <a href="https://soundcloud.com/kirist2357"><img src="content/SoundCloud.svg" width="100" height="100" /></a>
+  <a href="https://soundcloud.com/kirist2357"><img src="content/SoundCloud.svg" width="100" height="100" /></a>
  
- <a href="https://open.spotify.com/artist/6jwm7Ossu6HYJSNAkMhts2?si=hJpcqbvxS9Gmg9r1up0dEQ"><img src="/content/Spotify.svg" width="100" height="100"/></a>
+  <a href="https://open.spotify.com/artist/6jwm7Ossu6HYJSNAkMhts2?si=hJpcqbvxS9Gmg9r1up0dEQ"><img src="/content/Spotify.svg" width="100" height="100"/></a>
+ 
+ </div>
  
 </div>
+
 
 ## Contact
 [![Discord](https://discord.c99.nl/widget/theme-3/712196368630022195.png)](http://discord.com/users/712196368630022195)
