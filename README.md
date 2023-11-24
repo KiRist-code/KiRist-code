@@ -7,6 +7,7 @@
 <div align="center">
   <a href="https://soundcloud.com/kirist2357" width="50" height="50"><img src="content/SoundCloud.svg" width="50" height="50"/></a>
   <a href="https://open.spotify.com/artist/6jwm7Ossu6HYJSNAkMhts2?si=hJpcqbvxS9Gmg9r1up0dEQ" width="50" height="50"><img src="/content/Spotify.svg" width="50" height="50"/></a>
+  <a href="https://music.apple.com/kr/artist/kirist/1668939585" width="50" height="50"><img src="/content/AppleMusic.svg" width="50" height="50"/></a>
  </div>
 
 
