@@ -1,18 +1,23 @@
 [![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KiRist&fontSize=70&animation=twinkling)](https://www.github.com/KiRist-code)
 
 
-<h3 align="center">Spagetti Code Maker & Noob Hacker</h3>
+<h3 align="center">Spagetti Code Maker & Music Composer</h3>
+
+<div align="center">
+ [![Soundcloud](https://img.shields.io/badge/Soundcloud-#FF3300.svg?style=for-the-badge&logo=Soundcloud&logoColor=white)](https://on.soundcloud.com/fUaB4)
+ [![Spotify](https://img.shields.io/badge/Spotify-#1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/artist/6jwm7Ossu6HYJSNAkMhts2?si=zN0XR0JrT1CjA7hI_a2HCA)
+</div>
+
+
 
 ## Contact
 [![Discord](https://discord.c99.nl/widget/theme-3/712196368630022195.png)](http://discord.com/users/712196368630022195)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmj57667@gmail.com)](mailto:kmj57667@gmail.com)
 
-## MY BLOG
+## MY NOTE
 
-[Tistory Blog](https://kirist2357.tistory.com/)
-
-[Notion](https://kiristhome.notion.site/KiRist-s-Home-53acf8998c154c059919873a90f8d5e1) (this is the main page)
+[Notion](https://kiristhome.notion.site/KiRist-s-Home-53acf8998c154c059919873a90f8d5e1)
  
 
 ## What I use...
