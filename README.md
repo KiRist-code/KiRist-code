@@ -4,8 +4,10 @@
 <h3 align="center">Spagetti Code Maker & Music Composer</h3>
 
 <div align="center">
- [![Soundcloud](/contetn/SoundCloud.svg)]{: width="100" height="100"}
- [![Spotify](/content/Spotify logo.svg)]{: width="100" height="100"}
+ 
+ [![Soundcloud](/content/SoundCloud.svg)](){: width="100" height="100"}
+ [![Spotify](/content/Spotify logo.svg)](){: width="100" height="100"}
+ 
 </div>
 
 ## Contact
