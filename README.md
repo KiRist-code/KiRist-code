@@ -5,9 +5,9 @@
 
 <div align="center">
  
- [![Soundcloud](/content/SoundCloud.svg){: width="100px" height="100px"}]()
+ ![Soundcloud](/content/SoundCloud.svg){: width="100px" height="100px"}()
  
- [![Spotify](/content/Spotify.svg){: width="100px" height="100px"}]()
+ ![Spotify](/content/Spotify.svg){: width="100px" height="100px"}()
  
 </div>
 
