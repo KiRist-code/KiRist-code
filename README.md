@@ -7,11 +7,6 @@
 
 </div>
 
- [![Soundcloud](https://img.shields.io/badge/Soundcloud-#FF3300.svg?style=for-the-badge&logo=Soundcloud&logoColor=white)](https://on.soundcloud.com/fUaB4)
- [![Spotify](https://img.shields.io/badge/Spotify-#1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/artist/6jwm7Ossu6HYJSNAkMhts2?si=zN0XR0JrT1CjA7hI_a2HCA)
-
-
-
 ## Contact
 [![Discord](https://discord.c99.nl/widget/theme-3/712196368630022195.png)](http://discord.com/users/712196368630022195)
 
