@@ -5,9 +5,9 @@
 
 <div align="center">
 
- <img src="content/SoundCloud.svg" width="100" height="100"/>
+ <a href="https://soundcloud.com/kirist2357"><img src="content/SoundCloud.svg" width="100" height="100" style="fill: white;"/></a>
  
- <img src="/content/Spotify.svg" width="100" height="100"/>
+ <a href="https://open.spotify.com/artist/6jwm7Ossu6HYJSNAkMhts2?si=hJpcqbvxS9Gmg9r1up0dEQ"><img src="/content/Spotify.svg" width="100" height="100" style="fill: white;"/></a>
  
 </div>
 
